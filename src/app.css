@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bruh {
+    list-style-type: url('../images/icon-location.svg');
+}

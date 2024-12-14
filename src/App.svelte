@@ -57,9 +57,9 @@
           <img class="flex-1 m-20 my-5 ml-0" width="10px" src="../images/illustration-flowing-conversation.svg" alt="">
           <!-- text -->
            <div class="flex-1 ml-10">
-            <h1 class="text-3xl font-bold mb-5 text-slate-800">Grow Together</h1>
-            <p class="mt-5 text-slate-700">Generate meaningful discussions with your audience and <br /> build a strong, loyal community. 
-              Think of the insightful <br /> conversations you miss out on with a feedback form. </p>
+            <h1 class="text-3xl font-bold mb-5 text-slate-800">Flowing Conversations</h1>
+            <p class="mt-5 text-slate-700"> You wouldn't paginate a conversation in real life, so why do <br /> it online? Our threads 
+              have just-in-time loading for a more <br /> natural flow. </p>
            </div>
            
         </div>
@@ -78,5 +78,52 @@
         </div>
      </section>
 
-  </div>
+     <!-- ANCHOR floating call to action -->
+      <section class="flex flex-col justify-center ">
+        <div class="text-center border rounded-md py-10 inline-block p-50 mx-96 ">
+          <div class="">
+            <h1 class="mb-10 text-3xl tracking-wide font-bold text-slate-800 p-2 ">Ready To Build Your Community?</h1>
+            <a href="/" class= " bg-pink-500 text-white p-4  px-16 mb-50 rounded-full"> Get Started For Free</a>
+          </div>
+        </div>
+      </section>
+
+
+      <!-- ANCHOR footer -->
+      <footer class=" bg-teal-950 flex justify-between items-center p-16  pt-24">
+        <!-- div1 -->
+         <div>
+            <img src="../images/logo-c.svg" class="text-white" alt="">
+            <ul class="text-white bruh">
+              <div class="flex  items-center"> <img src="../images/icon-location.svg" alt="" class=" w-5 h-5 mb-10 mr-5">  <li class="my-5">Lorem ipsum dolor sit amet, consectetur <br />  adipisicing elit. Commodi blanditiis dolorem veniam <br /> explicabo placeat obcaecati exercitationem.</li></div>
+              <div class="flex  items-center" ><img src="../images/icon-phone.svg" alt="" class=" w-5 h-5 mr-5"> <li class="my-5">+123 456 7890</li></div>
+              <div class="flex items-center"><img src="../images/icon-email.svg" alt="" class=" w-5 h-5 mt-5 mr-5"> <li class="my-5 mb-0">example@huddle.com</li></div>
+            </ul>
+         </div>
+
+         <!-- div2 -->
+          <div class="flex text-white">
+            <div class="mr-20">
+              <p>About us</p>
+              <p>What we do</p>
+              <p>FAQ</p>
+            </div>
+            <div>
+              <p>Career</p>
+              <p>Blog</p>
+              <p>Contact us</p>
+            </div>
+          </div>
+          <!-- div3 -->
+           <div class="flex text-white">
+            <p>facebook</p>
+            <p>tweeter</p>
+            <p>insta</p>
+           </div>
+      </footer>
+     
+        
+     </div>
+
+
 </main>
