@@ -115,6 +115,7 @@
             </div>
           </div>
           <!-- div3 -->
+
            <div class="flex text-white">
             <p>facebook</p>
             <p>tweeter</p>
