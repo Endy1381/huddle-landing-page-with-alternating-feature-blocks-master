@@ -5,3 +5,7 @@
 .bruh {
     list-style-type: url('../images/icon-location.svg');
 }
+svg {
+    margin-left: 3%;
+    margin-right: 3%;
+}
